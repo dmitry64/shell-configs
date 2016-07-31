@@ -6,4 +6,4 @@ cp ./.tmux.conf ~/.tmux.conf
 cp -R ./.tmux-themepack ~/.tmux-themepack
 cp -R ./.tmux/ ~/.tmux/
 cp ./.zshrc ~/.zshrc
-cp -R ./.oh-my-zsh ~/.oh-my-zsh
+cp -R ./.config/termite ~/.config/termite
